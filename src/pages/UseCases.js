@@ -141,24 +141,25 @@ const UseCases = () => {
               number of runs.
             </p>
             <div className="discover-innovate">Real-Time Analysis</div>
-            <div className="the-ai-engine">
+            <p className="the-ai-engine">
               As your experiments progress, the AI engine in Testrunz analyzes
               results in real-time, identifying significant factors and their
               interactions quickly and accurately.
-            </div>
+            </p>
             <div className="discover-innovate">Predictive Insights</div>
-            <div className="the-ai-engine">
-              The AI engine takes into account the factors, levels, and
-              responses you've identified for your experiment, and generates an
-              optimized DOE matrix that captures all interactions in the least
-              number of runs.
-            </div>
+            <p className="the-ai-engine">
+              Real-time analysis and predictive insights accelerate innovation
+              by optimizing experimental designs. AI-driven engines consider
+              factors, levels, and responses to generate efficient Design of
+              Experiments (DOE) matrices.
+            </p>
             <div className="discover-innovate">Smart Experiment Planning</div>
-            <div className="the-ai-engine">
+            <p className="the-ai-engine">
               Learning from each experiment, the AI engine continually refines
               your DOE matrix, promoting an iterative learning process that
               supports faster, more effective innovation.
-            </div>
+            </p>
+            <br/>
           </div>
         </div>
         <div className={toggle === 2 ? "show-content" : "content"}>
@@ -211,6 +212,7 @@ const UseCases = () => {
               regulatory standards, such as IS 4250 for mixer grinders, saving
               you the time of creating test protocols from scratch.
             </p>
+            <br/>
           </div>
         </div>
         {/* Show content for responsive Titles */}
@@ -260,6 +262,7 @@ const UseCases = () => {
               optimized DOE matrix that captures all interactions in the least
               number of runs.
             </p>
+            <br/>
           </div>
         </div>
       </div>
