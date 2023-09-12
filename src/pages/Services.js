@@ -52,7 +52,7 @@ const Services = () => {
   return (
     <div className="servicepage">
       {/* Helmet component for setting document metadata */}
-      <Helmet>
+      {/* <Helmet>
         <title>
           Tailored Support for Product Development | Twinmo Services
         </title>
@@ -62,7 +62,7 @@ const Services = () => {
           content="At Twinmo, we offer tailored support for your product development journey. From consultation to quality control, discover our range of services."
         />
         <link rel="canonical" href="/services" />
-      </Helmet>
+      </Helmet> */}
       {/* Service page content */}
       <div className="row-51">
         <div className="col-51">

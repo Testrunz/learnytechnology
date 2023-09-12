@@ -13,7 +13,7 @@ const Industries = () => {
   return (
     <div className="industriespage">
       {/* Helmet component for setting document metadata */}
-      <Helmet>
+      {/* <Helmet>
         <title>Industries Benefiting from Testrunz | Twinmo</title>
         <meta name="keyword" content="Testing for personal care appliances" />
         <meta
@@ -21,7 +21,7 @@ const Industries = () => {
           content="From personal care appliances to home furniture quality, see how various industries are leveraging Testrunz for their product testing and development needs."
         />
         <link rel="canonical" href="/industries" />
-      </Helmet>
+      </Helmet> */}
       {/* Industries page content */}
       <div className="row-41">
         <div className="col-41">

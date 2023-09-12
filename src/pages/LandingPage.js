@@ -14,7 +14,7 @@ const LandingPage = () => {
   return (
     <div className="homepage">
       {/* Helmet component for setting document metadata */}
-      <Helmet>
+      {/* <Helmet>
         <title>Twinmo - AI-powered Experimentation Platform | Home</title>
         <meta name="keyword" content="AI-powered experimentation platform" />
         <meta
@@ -22,7 +22,7 @@ const LandingPage = () => {
           content="Welcome to Twinmo, the AI-powered experimentation platform revolutionizing product development"
         />
         <link rel="canonical" href="/" />
-      </Helmet>
+      </Helmet> */}
       {/* Landing page content */}
       <div className="row-1">
         <div className="col-1">

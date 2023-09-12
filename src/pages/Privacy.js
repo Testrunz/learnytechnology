@@ -8,7 +8,7 @@ const PrivacyAndPolicy = () => {
   return (
     <div className="privacyAndPolicy">
       {/* Helmet component for setting document metadata */}
-      <Helmet>
+      {/* <Helmet>
         <title>Twinmo - Privacy Policy</title>
         <meta
           name="keyword"
@@ -19,7 +19,7 @@ const PrivacyAndPolicy = () => {
           content="Read our privacy policy to understand how we protect your data and handle personal information."
         />
         <link rel="canonical" href="/privacy-policy" />
-      </Helmet>
+      </Helmet> */}
 
       {/* Privacy policy content */}
       <div>

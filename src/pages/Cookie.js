@@ -8,7 +8,7 @@ const CookiePolicy = () => {
   return (
     <div className="cookieAndPolicy">
       {/* Helmet component for setting document metadata */}
-      <Helmet>
+      {/* <Helmet>
         <title>Twinmo - Cookie Policy</title>
         <meta
           name="keyword"
@@ -19,7 +19,7 @@ const CookiePolicy = () => {
           content="Learn about our cookie policy, privacy practices, and data collection procedures."
         />
         <link rel="canonical" href="/cookie-policy" />
-      </Helmet>
+      </Helmet> */}
 
       {/* Cookie policy content */}
       <div>

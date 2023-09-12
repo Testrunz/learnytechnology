@@ -22,7 +22,7 @@ const UseCases = () => {
   return (
     <div className="usecasepage">
       {/* Helmet component for setting document metadata */}
-      <Helmet>
+      {/* <Helmet>
         <title>Accelerate Innovation with Testrunz | Twinmo Use Cases</title>
         <meta name="keywords" content="Smart Experiment Planning" />
         <meta
@@ -30,7 +30,7 @@ const UseCases = () => {
           content="Discover how Testrunz can transform your product development process. Learn about our smart experiment planning, real-time analysis, and predictive insights."
         />
         <link rel="canonical" href="/use-cases" />
-      </Helmet>
+      </Helmet> */}
       {/* Usecase page content */}
       {/* Row - 1 */}
       <div className="row-31">

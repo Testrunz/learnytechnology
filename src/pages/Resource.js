@@ -15,7 +15,7 @@ const Resource = () => {
   return (
     <div className="resourcepage">
       {/* Helmet component for setting document metadata */}
-      <Helmet>
+      {/* <Helmet>
         <title>Resources for Advanced DOE and Systems Thinking | Twinmo</title>
         <meta
           name="keyword"
@@ -26,7 +26,7 @@ const Resource = () => {
           content="Explore our resources to learn more about advanced DOE and systems thinking. Dive into our case studies, methods, and tools for experimentation and analysis."
         />
         <link rel="canonical" href="/resource" />
-      </Helmet>
+      </Helmet> */}
       {/* Resource page content */}
       {/* Row 1 */}
       <div className="row-61">
