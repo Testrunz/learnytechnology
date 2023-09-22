@@ -64,7 +64,7 @@ const Platforms = () => {
   return (
     <div className="platformpage">
       {/* Helmet component for setting document metadata */}
-      <Helmet>
+      {/* <Helmet>
         <title>
           Testrunz: Unified Platform for Product Experiments | Twinmo
         </title>
@@ -77,7 +77,7 @@ const Platforms = () => {
           content="Explore Testrunz, our AI-powered platform designed to streamline product experiments. Accelerate your product development with real-time data analysis."
         />
         <link rel="canonical" href="/platforms" />
-      </Helmet>
+      </Helmet> */}
       {/* Row - 1 */}
       <div className="row-21">
         <div className="col-21">
